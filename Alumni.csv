@@ -1,0 +1,17 @@
+Degree Type,Job,Starting Salary,Current Salary,How long did it take to find a job after graduating,Preparation,Relevance,Gender
+Bachelors,University or Colleges,47000,56000,I had a job lined up before graduation,5,5,M
+PhD,University or Colleges,55000,55000,I had a job lined up before graduation,5,5,M
+PhD,"Other Industry (e.g., Ford, General Electric)",132000,135000,I had a job lined up before graduation,2,2,M
+Masters,University or Colleges,55000,105000,I had a job lined up before graduation,5,5,M
+Masters,"Defense Technology Companies (e.g., Raytheon, Lockheed Martin)",45000,102000,I had a job lined up before graduation,5,5,M
+Bachelors,"National Laboratories (e.g., NASA, LLNL, LANL)",80000,85000,I had a job lined up before graduation,5,5,F
+PhD,"Other Industry (e.g., Ford, General Electric)",95000,120000,I had a job lined up before graduation,3,3,M
+Masters,University or Colleges,55000,65000,I found a job within 6 months of graduating,4,4,F
+PhD,University or Colleges,40000,50000,I had a job lined up before graduation,4,4,M
+PhD,Other,55000,120000,I found a job within 6 months of graduating,4,4,F
+PhD,University or Colleges,25000,70000,I found a job within 6 months of graduating,5,4,M
+PhD,University or Colleges,55000,78000,I had a job lined up before graduation,4,5,F
+Bachelors,Student,55000,0,I found a job within 6 months of graduating,3,3,M
+Bachelors,"Other Industry (e.g., Ford, General Electric)",66000,75000,I had a job lined up before graduation,5,3,F
+Masters,"Other Industry (e.g., Ford, General Electric)",98000,97000,I had a job lined up before graduation,4,5,F
+PhD,"National Laboratories (e.g., NASA, LLNL, LANL)",67000,158000,I had a job lined up before graduation,5,5,M
