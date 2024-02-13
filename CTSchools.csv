@@ -1,0 +1,764 @@
+DistrictCode,District,Student group,Headcount,Attendance Rate 
+10011,Andover School District,All Students,161,0.9386
+10011,Andover School District,Students Without High Needs,113,0.941
+10011,Andover School District,Students With High Needs,48,0.9328
+20011,Ansonia School District,All Students,2139,0.9045
+20011,Ansonia School District,Free Meal Eligible,1192,0.8893
+20011,Ansonia School District,Students Without High Needs,528,0.9287
+20011,Ansonia School District,Students With High Needs,1545,0.8968
+30011,Ashford School District,All Students,343,0.9309
+30011,Ashford School District,Free Meal Eligible,92,0.9167
+30011,Ashford School District,Students Without High Needs,189,0.9385
+30011,Ashford School District,Students With High Needs,145,0.9206
+40011,Avon School District,All Students,3057,0.9457
+40011,Avon School District,Free Meal Eligible,226,0.9145
+40011,Avon School District,Students Without High Needs,2427,0.9517
+40011,Avon School District,Students With High Needs,587,0.9221
+50011,Barkhamsted School District,All Students,199,0.9305
+50011,Barkhamsted School District,Students Without High Needs,124,0.9369
+50011,Barkhamsted School District,Students With High Needs,73,0.9191
+70011,Berlin School District,All Students,2613,0.9341
+70011,Berlin School District,Free Meal Eligible,429,0.9039
+70011,Berlin School District,Students Without High Needs,1756,0.9449
+70011,Berlin School District,Students With High Needs,841,0.9121
+80011,Bethany School District,All Students,391,0.9489
+80011,Bethany School District,Students Without High Needs,280,0.9514
+80011,Bethany School District,Students With High Needs,105,0.9427
+90011,Bethel School District,All Students,3102,0.9375
+90011,Bethel School District,Free Meal Eligible,686,0.9225
+90011,Bethel School District,Students Without High Needs,1821,0.9447
+90011,Bethel School District,Students With High Needs,1216,0.9274
+110011,Bloomfield School District,All Students,1734,0.9293
+110011,Bloomfield School District,Free Meal Eligible,775,0.918
+110011,Bloomfield School District,Students Without High Needs,607,0.9426
+110011,Bloomfield School District,Students With High Needs,1090,0.9219
+120011,Bolton School District,All Students,745,0.9433
+120011,Bolton School District,Free Meal Eligible,149,0.9034
+120011,Bolton School District,Students Without High Needs,509,0.9566
+120011,Bolton School District,Students With High Needs,228,0.9137
+130011,Bozrah School District,All Students,159,0.9433
+130011,Bozrah School District,Students Without High Needs,77,0.9461
+130011,Bozrah School District,Students With High Needs,80,0.9406
+140011,Branford School District,All Students,2527,0.9268
+140011,Branford School District,Free Meal Eligible,693,0.9012
+140011,Branford School District,Students Without High Needs,1389,0.9389
+140011,Branford School District,Students With High Needs,1104,0.913
+150011,Bridgeport School District,All Students,18482,0.9008
+150011,Bridgeport School District,Students Experiencing Homelessness,123,0.8455
+150011,Bridgeport School District,Free Meal Eligible,9915,0.8868
+150011,Bridgeport School District,Students Without High Needs,3590,0.9238
+150011,Bridgeport School District,Students With High Needs,13849,0.8949
+170011,Bristol School District,All Students,7439,0.9251
+170011,Bristol School District,Students Experiencing Homelessness,65,0.8904
+170011,Bristol School District,Free Meal Eligible,3545,0.9063
+170011,Bristol School District,Students Without High Needs,2800,0.949
+170011,Bristol School District,Students With High Needs,4510,0.911
+180011,Brookfield School District,All Students,2545,0.9368
+180011,Brookfield School District,Free Meal Eligible,379,0.9133
+180011,Brookfield School District,Students Without High Needs,1721,0.9449
+180011,Brookfield School District,Students With High Needs,801,0.9201
+190011,Brooklyn School District,All Students,804,0.9204
+190011,Brooklyn School District,Free Meal Eligible,206,0.8854
+190011,Brooklyn School District,Students Without High Needs,446,0.9394
+190011,Brooklyn School District,Students With High Needs,327,0.8959
+210011,Canaan School District,All Students,77,0.9431
+210011,Canaan School District,Students Without High Needs,50,0.9416
+210011,Canaan School District,Students With High Needs,27,0.9458
+220011,Canterbury School District,All Students,429,0.9148
+220011,Canterbury School District,Free Meal Eligible,89,0.901
+220011,Canterbury School District,Students Without High Needs,265,0.9232
+220011,Canterbury School District,Students With High Needs,151,0.899
+230011,Canton School District,All Students,1462,0.9356
+230011,Canton School District,Students Without High Needs,1018,0.9426
+230011,Canton School District,Students With High Needs,437,0.9192
+240011,Chaplin School District,All Students,143,0.9293
+240011,Chaplin School District,Students Without High Needs,69,0.9361
+240011,Chaplin School District,Students With High Needs,71,0.9219
+250011,Cheshire School District,All Students,4119,0.9466
+250011,Cheshire School District,Free Meal Eligible,460,0.921
+250011,Cheshire School District,Students Without High Needs,3041,0.954
+250011,Cheshire School District,Students With High Needs,1040,0.9259
+260011,Chester School District,All Students,214,0.9563
+260011,Chester School District,Students Without High Needs,145,0.9607
+260011,Chester School District,Students With High Needs,67,0.948
+270011,Clinton School District,All Students,1493,0.939
+270011,Clinton School District,Free Meal Eligible,400,0.9243
+270011,Clinton School District,Students Without High Needs,823,0.9483
+270011,Clinton School District,Students With High Needs,655,0.9272
+280011,Colchester School District,All Students,2141,0.9318
+280011,Colchester School District,Free Meal Eligible,409,0.9128
+280011,Colchester School District,Students Without High Needs,1405,0.9409
+280011,Colchester School District,Students With High Needs,714,0.9152
+290011,Colebrook School District,All Students,75,0.9241
+290011,Colebrook School District,Students Without High Needs,44,0.9265
+290011,Colebrook School District,Students With High Needs,31,0.9207
+300011,Columbia School District,All Students,413,0.9496
+300011,Columbia School District,Students Without High Needs,289,0.9515
+300011,Columbia School District,Students With High Needs,121,0.9456
+310011,Cornwall School District,All Students,105,0.9384
+310011,Cornwall School District,Students Without High Needs,61,0.934
+310011,Cornwall School District,Students With High Needs,42,0.9447
+320011,Coventry School District,All Students,1549,0.9295
+320011,Coventry School District,Free Meal Eligible,259,0.8879
+320011,Coventry School District,Students Without High Needs,1053,0.9423
+320011,Coventry School District,Students With High Needs,484,0.9028
+330011,Cromwell School District,All Students,1873,0.9445
+330011,Cromwell School District,Free Meal Eligible,381,0.9265
+330011,Cromwell School District,Students Without High Needs,1219,0.9532
+330011,Cromwell School District,Students With High Needs,651,0.9286
+340011,Danbury School District,All Students,11783,0.9166
+340011,Danbury School District,Students Experiencing Homelessness,25,0.8891
+340011,Danbury School District,Free Meal Eligible,4685,0.9092
+340011,Danbury School District,Students Without High Needs,3318,0.9347
+340011,Danbury School District,Students With High Needs,7802,0.9098
+350011,Darien School District,All Students,4675,0.9553
+350011,Darien School District,Free Meal Eligible,47,0.9446
+350011,Darien School District,Students Without High Needs,3749,0.9571
+350011,Darien School District,Students With High Needs,899,0.9477
+360011,Deep River School District,All Students,206,0.9565
+360011,Deep River School District,Students Without High Needs,107,0.9627
+360011,Deep River School District,Students With High Needs,94,0.9495
+370011,Derby School District,All Students,1222,0.8979
+370011,Derby School District,Free Meal Eligible,461,0.8761
+370011,Derby School District,Students Without High Needs,509,0.9175
+370011,Derby School District,Students With High Needs,663,0.884
+390011,Eastford School District,All Students,126,0.9387
+390011,Eastford School District,Free Meal Eligible,31,0.9277
+390011,Eastford School District,Students Without High Needs,77,0.9487
+390011,Eastford School District,Students With High Needs,45,0.9271
+400011,East Granby School District,All Students,839,0.9301
+400011,East Granby School District,Students Without High Needs,602,0.9433
+400011,East Granby School District,Students With High Needs,222,0.8951
+410011,East Haddam School District,All Students,951,0.9391
+410011,East Haddam School District,Free Meal Eligible,198,0.9132
+410011,East Haddam School District,Students Without High Needs,616,0.9475
+410011,East Haddam School District,Students With High Needs,320,0.9235
+420011,East Hampton School District,All Students,1713,0.9413
+420011,East Hampton School District,Free Meal Eligible,282,0.903
+420011,East Hampton School District,Students Without High Needs,1181,0.9509
+420011,East Hampton School District,Students With High Needs,515,0.9195
+430011,East Hartford School District,All Students,6126,0.91
+430011,East Hartford School District,Free Meal Eligible,3340,0.8912
+430011,East Hartford School District,Students Without High Needs,1494,0.9458
+430011,East Hartford School District,Students With High Needs,4447,0.8986
+440011,East Haven School District,All Students,2660,0.92
+440011,East Haven School District,Free Meal Eligible,809,0.8943
+440011,East Haven School District,Students Without High Needs,1334,0.9337
+440011,East Haven School District,Students With High Needs,1265,0.9055
+450011,East Lyme School District,All Students,2597,0.9481
+450011,East Lyme School District,Free Meal Eligible,446,0.9353
+450011,East Lyme School District,Students Without High Needs,1662,0.9542
+450011,East Lyme School District,Students With High Needs,897,0.9371
+460011,Easton School District,All Students,875,0.9499
+460011,Easton School District,Free Meal Eligible,74,0.9439
+460011,Easton School District,Students Without High Needs,668,0.952
+460011,Easton School District,Students With High Needs,198,0.9429
+470011,East Windsor School District,All Students,971,0.9003
+470011,East Windsor School District,Free Meal Eligible,407,0.8742
+470011,East Windsor School District,Students Without High Needs,354,0.9283
+470011,East Windsor School District,Students With High Needs,596,0.8847
+480011,Ellington School District,All Students,2548,0.943
+480011,Ellington School District,Free Meal Eligible,352,0.9168
+480011,Ellington School District,Students Without High Needs,1837,0.9494
+480011,Ellington School District,Students With High Needs,691,0.9272
+490011,Enfield School District,All Students,4660,0.9211
+490011,Enfield School District,Free Meal Eligible,1640,0.9013
+490011,Enfield School District,Students Without High Needs,2183,0.9372
+490011,Enfield School District,Students With High Needs,2377,0.9076
+500011,Essex School District,All Students,271,0.9496
+500011,Essex School District,Students Without High Needs,178,0.9505
+500011,Essex School District,Students With High Needs,89,0.9476
+510011,Fairfield School District,All Students,9229,0.9385
+510011,Fairfield School District,Free Meal Eligible,1072,0.9122
+510011,Fairfield School District,Students Without High Needs,6599,0.9452
+510011,Fairfield School District,Students With High Needs,2553,0.9214
+520011,Farmington School District,All Students,4073,0.9442
+520011,Farmington School District,Free Meal Eligible,558,0.9153
+520011,Farmington School District,Students Without High Needs,2863,0.9531
+520011,Farmington School District,Students With High Needs,1166,0.9237
+530011,Franklin School District,All Students,157,0.9376
+530011,Franklin School District,Free Meal Eligible,26,0.9169
+530011,Franklin School District,Students Without High Needs,120,0.9442
+530011,Franklin School District,Students With High Needs,35,0.9172
+540011,Glastonbury School District,All Students,5631,0.9509
+540011,Glastonbury School District,Free Meal Eligible,509,0.9174
+540011,Glastonbury School District,Students Without High Needs,4400,0.9575
+540011,Glastonbury School District,Students With High Needs,1179,0.9262
+560011,Granby School District,All Students,1726,0.9449
+560011,Granby School District,Free Meal Eligible,213,0.9164
+560011,Granby School District,Students Without High Needs,1257,0.9513
+560011,Granby School District,Students With High Needs,447,0.9276
+570011,Greenwich School District,All Students,8471,0.9418
+570011,Greenwich School District,Free Meal Eligible,1008,0.9214
+570011,Greenwich School District,Students Without High Needs,5998,0.9469
+570011,Greenwich School District,Students With High Needs,2328,0.9286
+580011,Griswold School District,All Students,1639,0.9234
+580011,Griswold School District,Free Meal Eligible,621,0.9031
+580011,Griswold School District,Students Without High Needs,706,0.9444
+580011,Griswold School District,Students With High Needs,901,0.9086
+590011,Groton School District,All Students,4560,0.9144
+590011,Groton School District,Free Meal Eligible,1499,0.8919
+590011,Groton School District,Students Without High Needs,2001,0.9326
+590011,Groton School District,Students With High Needs,2355,0.9014
+600011,Guilford School District,All Students,3108,0.9372
+600011,Guilford School District,Free Meal Eligible,263,0.9101
+600011,Guilford School District,Students Without High Needs,2391,0.9428
+600011,Guilford School District,Students With High Needs,696,0.9179
+620011,Hamden School District,All Students,5392,0.8962
+620011,Hamden School District,Free Meal Eligible,1738,0.8728
+620011,Hamden School District,Students Without High Needs,2524,0.9135
+620011,Hamden School District,Students With High Needs,2693,0.8813
+630011,Hampton School District,All Students,63,0.9111
+630011,Hampton School District,Students Without High Needs,32,0.9222
+630011,Hampton School District,Students With High Needs,29,0.8977
+640011,Hartford School District,All Students,16371,0.8564
+640011,Hartford School District,Students Experiencing Homelessness,107,0.7986
+640011,Hartford School District,Free Meal Eligible,12011,0.842
+640011,Hartford School District,Students Without High Needs,2305,0.9148
+640011,Hartford School District,Students With High Needs,13351,0.8469
+650011,Hartland School District,All Students,129,0.9383
+650011,Hartland School District,Students Without High Needs,86,0.9442
+650011,Hartland School District,Students With High Needs,43,0.9272
+670011,Hebron School District,All Students,635,0.9527
+670011,Hebron School District,Free Meal Eligible,75,0.9448
+670011,Hebron School District,Students Without High Needs,476,0.9557
+670011,Hebron School District,Students With High Needs,149,0.9462
+680011,Kent School District,All Students,195,0.9455
+680011,Kent School District,Students Without High Needs,139,0.9537
+680011,Kent School District,Students With High Needs,55,0.9244
+690011,Killingly School District,All Students,2245,0.9093
+690011,Killingly School District,Free Meal Eligible,847,0.8825
+690011,Killingly School District,Students Without High Needs,1022,0.931
+690011,Killingly School District,Students With High Needs,1161,0.8914
+710011,Lebanon School District,All Students,886,0.9386
+710011,Lebanon School District,Free Meal Eligible,202,0.9227
+710011,Lebanon School District,Students Without High Needs,557,0.9464
+710011,Lebanon School District,Students With High Needs,324,0.9254
+720011,Ledyard School District,All Students,2424,0.9117
+720011,Ledyard School District,Free Meal Eligible,376,0.8859
+720011,Ledyard School District,Students Without High Needs,1587,0.9209
+720011,Ledyard School District,Students With High Needs,787,0.8937
+730011,Lisbon School District,All Students,381,0.9206
+730011,Lisbon School District,Students Without High Needs,203,0.9279
+730011,Lisbon School District,Students With High Needs,168,0.9156
+740011,Litchfield School District,All Students,808,0.9299
+740011,Litchfield School District,Free Meal Eligible,103,0.9088
+740011,Litchfield School District,Students Without High Needs,562,0.9369
+740011,Litchfield School District,Students With High Needs,240,0.913
+760011,Madison School District,All Students,2414,0.9593
+760011,Madison School District,Free Meal Eligible,66,0.939
+760011,Madison School District,Students Without High Needs,1980,0.9605
+760011,Madison School District,Students With High Needs,422,0.9537
+770011,Manchester School District,All Students,6039,0.8854
+770011,Manchester School District,Free Meal Eligible,2922,0.8577
+770011,Manchester School District,Students Without High Needs,2050,0.9222
+770011,Manchester School District,Students With High Needs,3821,0.8672
+780011,Mansfield School District,All Students,948,0.9356
+780011,Mansfield School District,Free Meal Eligible,232,0.9057
+780011,Mansfield School District,Students Without High Needs,574,0.9478
+780011,Mansfield School District,Students With High Needs,352,0.9165
+790011,Marlborough School District,All Students,445,0.9462
+790011,Marlborough School District,Students Without High Needs,334,0.948
+790011,Marlborough School District,Students With High Needs,107,0.9396
+800011,Meriden School District,All Students,8476,0.9112
+800011,Meriden School District,Free Meal Eligible,5968,0.9028
+800011,Meriden School District,Students Without High Needs,1023,0.9437
+800011,Meriden School District,Students With High Needs,7250,0.9072
+830011,Middletown School District,All Students,4346,0.8941
+830011,Middletown School District,Students Experiencing Homelessness,35,0.8319
+830011,Middletown School District,Free Meal Eligible,1394,0.867
+830011,Middletown School District,Students Without High Needs,2288,0.9132
+830011,Middletown School District,Students With High Needs,1971,0.8728
+840011,Milford School District,All Students,5204,0.9227
+840011,Milford School District,Free Meal Eligible,1113,0.9021
+840011,Milford School District,Students Without High Needs,3201,0.933
+840011,Milford School District,Students With High Needs,1920,0.9068
+850011,Monroe School District,All Students,3319,0.9485
+850011,Monroe School District,Free Meal Eligible,262,0.9255
+850011,Monroe School District,Students Without High Needs,2545,0.9525
+850011,Monroe School District,Students With High Needs,737,0.9351
+860011,Montville School District,All Students,1970,0.9225
+860011,Montville School District,Free Meal Eligible,648,0.8993
+860011,Montville School District,Students Without High Needs,934,0.9419
+860011,Montville School District,Students With High Needs,997,0.9062
+880011,Naugatuck School District,All Students,4208,0.9184
+880011,Naugatuck School District,Free Meal Eligible,1839,0.8992
+880011,Naugatuck School District,Students Without High Needs,1518,0.9411
+880011,Naugatuck School District,Students With High Needs,2569,0.9055
+890011,New Britain School District,All Students,9299,0.8671
+890011,New Britain School District,Students Experiencing Homelessness,81,0.8201
+890011,New Britain School District,Free Meal Eligible,6030,0.8511
+890011,New Britain School District,Students Without High Needs,1613,0.9108
+890011,New Britain School District,Students With High Needs,7379,0.8578
+900011,New Canaan School District,All Students,4113,0.9566
+900011,New Canaan School District,Students Without High Needs,3565,0.9577
+900011,New Canaan School District,Students With High Needs,507,0.9492
+910011,New Fairfield School District,All Students,2096,0.9288
+910011,New Fairfield School District,Free Meal Eligible,187,0.901
+910011,New Fairfield School District,Students Without High Needs,1491,0.9343
+910011,New Fairfield School District,Students With High Needs,557,0.9136
+920011,New Hartford School District,All Students,425,0.9432
+920011,New Hartford School District,Students Without High Needs,292,0.9467
+920011,New Hartford School District,Students With High Needs,126,0.9348
+930011,New Haven School District,All Students,18028,0.8383
+930011,New Haven School District,Students Experiencing Homelessness,234,0.7573
+930011,New Haven School District,Free Meal Eligible,10661,0.8201
+930011,New Haven School District,Students Without High Needs,3996,0.872
+930011,New Haven School District,Students With High Needs,13533,0.8294
+940011,Newington School District,All Students,3850,0.9413
+940011,Newington School District,Free Meal Eligible,981,0.9157
+940011,Newington School District,Students Without High Needs,2134,0.955
+940011,Newington School District,Students With High Needs,1682,0.9243
+950011,New London School District,All Students,3055,0.8868
+950011,New London School District,Students Experiencing Homelessness,184,0.8869
+950011,New London School District,Free Meal Eligible,2323,0.8778
+950011,New London School District,Students Without High Needs,328,0.9269
+950011,New London School District,Students With High Needs,2601,0.8819
+960011,New Milford School District,All Students,3601,0.9183
+960011,New Milford School District,Free Meal Eligible,894,0.8933
+960011,New Milford School District,Students Without High Needs,2017,0.9312
+960011,New Milford School District,Students With High Needs,1523,0.9011
+970011,Newtown School District,All Students,4001,0.9465
+970011,Newtown School District,Free Meal Eligible,377,0.9257
+970011,Newtown School District,Students Without High Needs,2981,0.951
+970011,Newtown School District,Students With High Needs,969,0.9336
+980011,Norfolk School District,All Students,68,0.9372
+980011,Norfolk School District,Students Without High Needs,40,0.9455
+980011,Norfolk School District,Students With High Needs,25,0.9262
+990011,North Branford School District,All Students,1536,0.935
+990011,North Branford School District,Free Meal Eligible,240,0.9204
+990011,North Branford School District,Students Without High Needs,1069,0.9396
+990011,North Branford School District,Students With High Needs,462,0.9243
+1000011,North Canaan School District,All Students,218,0.9407
+1000011,North Canaan School District,Students Without High Needs,115,0.9448
+1000011,North Canaan School District,Students With High Needs,98,0.9359
+1010011,North Haven School District,All Students,3130,0.9464
+1010011,North Haven School District,Free Meal Eligible,510,0.9238
+1010011,North Haven School District,Students Without High Needs,2124,0.9548
+1010011,North Haven School District,Students With High Needs,975,0.929
+1020011,North Stonington School District,All Students,740,0.9413
+1020011,North Stonington School District,Free Meal Eligible,109,0.9284
+1020011,North Stonington School District,Students Without High Needs,537,0.9454
+1020011,North Stonington School District,Students With High Needs,194,0.9298
+1030011,Norwalk School District,All Students,12356,0.9092
+1030011,Norwalk School District,Students Experiencing Homelessness,33,0.8129
+1030011,Norwalk School District,Free Meal Eligible,5372,0.8959
+1030011,Norwalk School District,Students Without High Needs,4151,0.93
+1030011,Norwalk School District,Students With High Needs,7747,0.8988
+1040011,Norwich School District,All Students,3176,0.9235
+1040011,Norwich School District,Free Meal Eligible,1598,0.917
+1040011,Norwich School District,Students Without High Needs,826,0.9393
+1040011,Norwich School District,Students With High Needs,2219,0.919
+1060011,Old Saybrook School District,All Students,1014,0.9466
+1060011,Old Saybrook School District,Free Meal Eligible,200,0.9339
+1060011,Old Saybrook School District,Students Without High Needs,616,0.9518
+1060011,Old Saybrook School District,Students With High Needs,379,0.9392
+1070011,Orange School District,All Students,1242,0.9435
+1070011,Orange School District,Free Meal Eligible,128,0.9316
+1070011,Orange School District,Students Without High Needs,944,0.945
+1070011,Orange School District,Students With High Needs,288,0.939
+1080011,Oxford School District,All Students,1693,0.9413
+1080011,Oxford School District,Free Meal Eligible,191,0.915
+1080011,Oxford School District,Students Without High Needs,1259,0.9446
+1080011,Oxford School District,Students With High Needs,418,0.9307
+1090011,Plainfield School District,All Students,1860,0.9151
+1090011,Plainfield School District,Free Meal Eligible,848,0.8985
+1090011,Plainfield School District,Students Without High Needs,671,0.9319
+1090011,Plainfield School District,Students With High Needs,1141,0.9051
+1100011,Plainville School District,All Students,2171,0.9241
+1100011,Plainville School District,Free Meal Eligible,670,0.902
+1100011,Plainville School District,Students Without High Needs,1076,0.9415
+1100011,Plainville School District,Students With High Needs,1074,0.9073
+1110011,Plymouth School District,All Students,1245,0.8993
+1110011,Plymouth School District,Free Meal Eligible,409,0.8732
+1110011,Plymouth School District,Students Without High Needs,596,0.9198
+1110011,Plymouth School District,Students With High Needs,634,0.8816
+1120011,Pomfret School District,All Students,352,0.9371
+1120011,Pomfret School District,Students Without High Needs,242,0.9433
+1120011,Pomfret School District,Students With High Needs,99,0.9229
+1130011,Portland School District,All Students,1209,0.9386
+1130011,Portland School District,Free Meal Eligible,248,0.9062
+1130011,Portland School District,Students Without High Needs,784,0.95
+1130011,Portland School District,Students With High Needs,413,0.9169
+1140011,Preston School District,All Students,383,0.9136
+1140011,Preston School District,Free Meal Eligible,57,0.9027
+1140011,Preston School District,Students Without High Needs,263,0.9164
+1140011,Preston School District,Students With High Needs,117,0.9076
+1160011,Putnam School District,All Students,1063,0.8996
+1160011,Putnam School District,Free Meal Eligible,425,0.8759
+1160011,Putnam School District,Students Without High Needs,406,0.9263
+1160011,Putnam School District,Students With High Needs,611,0.8816
+1170011,Redding School District,All Students,789,0.9505
+1170011,Redding School District,Students Without High Needs,594,0.9525
+1170011,Redding School District,Students With High Needs,180,0.9445
+1180011,Ridgefield School District,All Students,4533,0.9446
+1180011,Ridgefield School District,Free Meal Eligible,278,0.9304
+1180011,Ridgefield School District,Students Without High Needs,3517,0.9482
+1180011,Ridgefield School District,Students With High Needs,970,0.9318
+1190011,Rocky Hill School District,All Students,2483,0.948
+1190011,Rocky Hill School District,Free Meal Eligible,427,0.9161
+1190011,Rocky Hill School District,Students Without High Needs,1600,0.9573
+1190011,Rocky Hill School District,Students With High Needs,818,0.9302
+1210011,Salem School District,All Students,385,0.9435
+1210011,Salem School District,Students Without High Needs,273,0.9502
+1210011,Salem School District,Students With High Needs,103,0.9269
+1220011,Salisbury School District,All Students,282,0.9395
+1220011,Salisbury School District,Students Without High Needs,210,0.9435
+1220011,Salisbury School District,Students With High Needs,70,0.9277
+1230011,Scotland School District,All Students,86,0.9128
+1230011,Scotland School District,Students Without High Needs,39,0.9196
+1230011,Scotland School District,Students With High Needs,46,0.9081
+1240011,Seymour School District,All Students,2077,0.9296
+1240011,Seymour School District,Free Meal Eligible,586,0.9119
+1240011,Seymour School District,Students Without High Needs,1090,0.9407
+1240011,Seymour School District,Students With High Needs,948,0.9173
+1250011,Sharon School District,All Students,99,0.9281
+1250011,Sharon School District,Students Without High Needs,43,0.9372
+1250011,Sharon School District,Students With High Needs,50,0.9181
+1260011,Shelton School District,All Students,4404,0.9369
+1260011,Shelton School District,Free Meal Eligible,1029,0.9175
+1260011,Shelton School District,Students Without High Needs,2564,0.9467
+1260011,Shelton School District,Students With High Needs,1772,0.923
+1270011,Sherman School District,All Students,247,0.94
+1270011,Sherman School District,Students Without High Needs,200,0.9423
+1270011,Sherman School District,Students With High Needs,42,0.9274
+1280011,Simsbury School District,All Students,4068,0.9414
+1280011,Simsbury School District,Free Meal Eligible,452,0.9126
+1280011,Simsbury School District,Students Without High Needs,2978,0.9489
+1280011,Simsbury School District,Students With High Needs,1040,0.9207
+1290011,Somers School District,All Students,1319,0.9478
+1290011,Somers School District,Students Without High Needs,1057,0.9519
+1290011,Somers School District,Students With High Needs,250,0.9327
+1310011,Southington School District,All Students,6171,0.9409
+1310011,Southington School District,Free Meal Eligible,1116,0.9099
+1310011,Southington School District,Students Without High Needs,4117,0.9523
+1310011,Southington School District,Students With High Needs,2017,0.918
+1320011,South Windsor School District,All Students,4714,0.9476
+1320011,South Windsor School District,Free Meal Eligible,583,0.9206
+1320011,South Windsor School District,Students Without High Needs,3236,0.9548
+1320011,South Windsor School District,Students With High Needs,1409,0.9312
+1330011,Sprague School District,All Students,248,0.9111
+1330011,Sprague School District,Free Meal Eligible,131,0.9062
+1330011,Sprague School District,Students Without High Needs,76,0.9215
+1330011,Sprague School District,Students With High Needs,158,0.9068
+1340011,Stafford School District,All Students,1312,0.9244
+1340011,Stafford School District,Free Meal Eligible,329,0.9056
+1340011,Stafford School District,Students Without High Needs,762,0.9366
+1340011,Stafford School District,Students With High Needs,527,0.9075
+1350011,Stamford School District,All Students,15986,0.9104
+1350011,Stamford School District,Students Experiencing Homelessness,57,0.8306
+1350011,Stamford School District,Free Meal Eligible,7070,0.8972
+1350011,Stamford School District,Students Without High Needs,5490,0.9344
+1350011,Stamford School District,Students With High Needs,9864,0.8986
+1360011,Sterling School District,All Students,314,0.8974
+1360011,Sterling School District,Students Without High Needs,173,0.9073
+1360011,Sterling School District,Students With High Needs,132,0.8855
+1370011,Stonington School District,All Students,1805,0.9313
+1370011,Stonington School District,Free Meal Eligible,340,0.9052
+1370011,Stonington School District,Students Without High Needs,1206,0.9414
+1370011,Stonington School District,Students With High Needs,574,0.9109
+1380011,Stratford School District,All Students,6724,0.9173
+1380011,Stratford School District,Students Experiencing Homelessness,24,0.9006
+1380011,Stratford School District,Free Meal Eligible,2765,0.905
+1380011,Stratford School District,Students Without High Needs,2714,0.9302
+1380011,Stratford School District,Students With High Needs,3850,0.909
+1390011,Suffield School District,All Students,2016,0.9356
+1390011,Suffield School District,Free Meal Eligible,225,0.8993
+1390011,Suffield School District,Students Without High Needs,1449,0.943
+1390011,Suffield School District,Students With High Needs,532,0.9172
+1400011,Thomaston School District,All Students,795,0.9423
+1400011,Thomaston School District,Free Meal Eligible,219,0.9215
+1400011,Thomaston School District,Students Without High Needs,449,0.9543
+1400011,Thomaston School District,Students With High Needs,341,0.9271
+1410011,Thompson School District,All Students,892,0.8924
+1410011,Thompson School District,Free Meal Eligible,296,0.8617
+1410011,Thompson School District,Students Without High Needs,422,0.916
+1410011,Thompson School District,Students With High Needs,448,0.8713
+1420011,Tolland School District,All Students,2200,0.9351
+1420011,Tolland School District,Free Meal Eligible,245,0.9074
+1420011,Tolland School District,Students Without High Needs,1616,0.9416
+1420011,Tolland School District,Students With High Needs,571,0.9175
+1430011,Torrington School District,All Students,3813,0.9188
+1430011,Torrington School District,Free Meal Eligible,1864,0.9073
+1430011,Torrington School District,Students Without High Needs,1076,0.9353
+1430011,Torrington School District,Students With High Needs,2612,0.9121
+1440011,Trumbull School District,All Students,6703,0.9505
+1440011,Trumbull School District,Free Meal Eligible,823,0.9372
+1440011,Trumbull School District,Students Without High Needs,4715,0.955
+1440011,Trumbull School District,Students With High Needs,1904,0.9399
+1450011,Union School District,All Students,44,0.9512
+1460011,Vernon School District,All Students,3019,0.9357
+1460011,Vernon School District,Free Meal Eligible,1303,0.9172
+1460011,Vernon School District,Students Without High Needs,1198,0.9573
+1460011,Vernon School District,Students With High Needs,1751,0.9217
+1470011,Voluntown School District,All Students,213,0.9444
+1470011,Voluntown School District,Free Meal Eligible,56,0.9275
+1470011,Voluntown School District,Students Without High Needs,119,0.9504
+1470011,Voluntown School District,Students With High Needs,90,0.9359
+1480011,Wallingford School District,All Students,5133,0.9233
+1480011,Wallingford School District,Free Meal Eligible,1259,0.8944
+1480011,Wallingford School District,Students Without High Needs,2928,0.9376
+1480011,Wallingford School District,Students With High Needs,2150,0.9044
+1510011,Waterbury School District,All Students,17806,0.8881
+1510011,Waterbury School District,Students Experiencing Homelessness,245,0.8516
+1510011,Waterbury School District,Free Meal Eligible,12207,0.8789
+1510011,Waterbury School District,Students Without High Needs,3185,0.9138
+1510011,Waterbury School District,Students With High Needs,13926,0.8829
+1520011,Waterford School District,All Students,2287,0.944
+1520011,Waterford School District,Free Meal Eligible,468,0.9221
+1520011,Waterford School District,Students Without High Needs,1396,0.9543
+1520011,Waterford School District,Students With High Needs,855,0.9275
+1530011,Watertown School District,All Students,2521,0.9415
+1530011,Watertown School District,Free Meal Eligible,671,0.9243
+1530011,Watertown School District,Students Without High Needs,1389,0.9517
+1530011,Watertown School District,Students With High Needs,1118,0.9293
+1540011,Westbrook School District,All Students,590,0.9255
+1540011,Westbrook School District,Free Meal Eligible,154,0.9147
+1540011,Westbrook School District,Students Without High Needs,299,0.9305
+1540011,Westbrook School District,Students With High Needs,272,0.9199
+1550011,West Hartford School District,All Students,9018,0.9319
+1550011,West Hartford School District,Free Meal Eligible,1754,0.9041
+1550011,West Hartford School District,Students Without High Needs,5705,0.9437
+1550011,West Hartford School District,Students With High Needs,3135,0.9105
+1560011,West Haven School District,All Students,5863,0.9122
+1560011,West Haven School District,Free Meal Eligible,2704,0.8972
+1560011,West Haven School District,Students Without High Needs,1823,0.9299
+1560011,West Haven School District,Students With High Needs,3832,0.904
+1570011,Weston School District,All Students,2204,0.9497
+1570011,Weston School District,Students Without High Needs,1909,0.9518
+1570011,Weston School District,Students With High Needs,268,0.9348
+1580011,Westport School District,All Students,5269,0.9399
+1580011,Westport School District,Free Meal Eligible,113,0.9019
+1580011,Westport School District,Students Without High Needs,4399,0.9434
+1580011,Westport School District,Students With High Needs,819,0.9211
+1590011,Wethersfield School District,All Students,3578,0.9334
+1590011,Wethersfield School District,Free Meal Eligible,811,0.9107
+1590011,Wethersfield School District,Students Without High Needs,2127,0.9443
+1590011,Wethersfield School District,Students With High Needs,1403,0.9178
+1600011,Willington School District,All Students,376,0.9147
+1600011,Willington School District,Students Without High Needs,254,0.9258
+1600011,Willington School District,Students With High Needs,114,0.8901
+1610011,Wilton School District,All Students,3734,0.9596
+1610011,Wilton School District,Free Meal Eligible,125,0.943
+1610011,Wilton School District,Students Without High Needs,2978,0.9616
+1610011,Wilton School District,Students With High Needs,696,0.9525
+1620011,Winchester School District,All Students,532,0.9186
+1620011,Winchester School District,Free Meal Eligible,254,0.9148
+1620011,Winchester School District,Students Without High Needs,170,0.9368
+1620011,Winchester School District,Students With High Needs,347,0.911
+1630011,Windham School District,All Students,2960,0.8724
+1630011,Windham School District,Free Meal Eligible,1847,0.8532
+1630011,Windham School District,Students Without High Needs,554,0.9195
+1630011,Windham School District,Students With High Needs,2338,0.8614
+1640011,Windsor School District,All Students,3219,0.9048
+1640011,Windsor School District,Free Meal Eligible,1015,0.8774
+1640011,Windsor School District,Students Without High Needs,1546,0.927
+1640011,Windsor School District,Students With High Needs,1612,0.8844
+1650011,Windsor Locks School District,All Students,1428,0.9133
+1650011,Windsor Locks School District,Free Meal Eligible,532,0.8873
+1650011,Windsor Locks School District,Students Without High Needs,638,0.9347
+1650011,Windsor Locks School District,Students With High Needs,771,0.8962
+1660011,Wolcott School District,All Students,2121,0.9418
+1660011,Wolcott School District,Free Meal Eligible,451,0.9306
+1660011,Wolcott School District,Students Without High Needs,1280,0.9478
+1660011,Wolcott School District,Students With High Needs,820,0.9328
+1670011,Woodbridge School District,All Students,834,0.947
+1670011,Woodbridge School District,Students Without High Needs,632,0.9494
+1670011,Woodbridge School District,Students With High Needs,191,0.9398
+1690011,Woodstock School District,All Students,781,0.9421
+1690011,Woodstock School District,Free Meal Eligible,120,0.9249
+1690011,Woodstock School District,Students Without High Needs,544,0.9481
+1690011,Woodstock School District,Students With High Needs,225,0.9308
+2010012,Regional School District 01,All Students,335,0.9166
+2010012,Regional School District 01,Students Without High Needs,182,0.9273
+2010012,Regional School District 01,Students With High Needs,146,0.9032
+2040012,Regional School District 04,All Students,814,0.9344
+2040012,Regional School District 04,Free Meal Eligible,140,0.9075
+2040012,Regional School District 04,Students Without High Needs,519,0.9437
+2040012,Regional School District 04,Students With High Needs,289,0.9178
+2050012,Regional School District 05,All Students,2132,0.9335
+2050012,Regional School District 05,Free Meal Eligible,240,0.9194
+2050012,Regional School District 05,Students Without High Needs,1593,0.9415
+2050012,Regional School District 05,Students With High Needs,528,0.9107
+2060012,Regional School District 06,All Students,830,0.9244
+2060012,Regional School District 06,Free Meal Eligible,157,0.911
+2060012,Regional School District 06,Students Without High Needs,524,0.9329
+2060012,Regional School District 06,Students With High Needs,304,0.911
+2070012,Regional School District 07,All Students,906,0.9313
+2070012,Regional School District 07,Free Meal Eligible,144,0.9081
+2070012,Regional School District 07,Students Without High Needs,582,0.941
+2070012,Regional School District 07,Students With High Needs,317,0.9155
+2080012,Regional School District 08,All Students,1217,0.9456
+2080012,Regional School District 08,Free Meal Eligible,160,0.9156
+2080012,Regional School District 08,Students Without High Needs,880,0.9554
+2080012,Regional School District 08,Students With High Needs,335,0.92
+2090012,Regional School District 09,All Students,817,0.9302
+2090012,Regional School District 09,Students Without High Needs,622,0.9399
+2090012,Regional School District 09,Students With High Needs,190,0.8992
+2100012,Regional School District 10,All Students,2118,0.9462
+2100012,Regional School District 10,Free Meal Eligible,238,0.9316
+2100012,Regional School District 10,Students Without High Needs,1609,0.9502
+2100012,Regional School District 10,Students With High Needs,495,0.9349
+2110012,Regional School District 11,All Students,210,0.9104
+2110012,Regional School District 11,Students Without High Needs,88,0.9235
+2110012,Regional School District 11,Students With High Needs,119,0.9008
+2120012,Regional School District 12,All Students,718,0.9324
+2120012,Regional School District 12,Free Meal Eligible,120,0.914
+2120012,Regional School District 12,Students Without High Needs,477,0.9387
+2120012,Regional School District 12,Students With High Needs,227,0.9204
+2130012,Regional School District 13,All Students,1345,0.9384
+2130012,Regional School District 13,Free Meal Eligible,165,0.9041
+2130012,Regional School District 13,Students Without High Needs,915,0.9483
+2130012,Regional School District 13,Students With High Needs,420,0.9173
+2140012,Regional School District 14,All Students,1558,0.9496
+2140012,Regional School District 14,Free Meal Eligible,233,0.928
+2140012,Regional School District 14,Students Without High Needs,1031,0.9561
+2140012,Regional School District 14,Students With High Needs,510,0.9375
+2150012,Regional School District 15,All Students,3502,0.9296
+2150012,Regional School District 15,Free Meal Eligible,331,0.9026
+2150012,Regional School District 15,Students Without High Needs,2544,0.9351
+2150012,Regional School District 15,Students With High Needs,930,0.9142
+2160012,Regional School District 16,All Students,1935,0.9521
+2160012,Regional School District 16,Free Meal Eligible,287,0.9331
+2160012,Regional School District 16,Students Without High Needs,1342,0.9579
+2160012,Regional School District 16,Students With High Needs,588,0.9387
+2170012,Regional School District 17,All Students,1756,0.9417
+2170012,Regional School District 17,Free Meal Eligible,163,0.9221
+2170012,Regional School District 17,Students Without High Needs,1301,0.9452
+2170012,Regional School District 17,Students With High Needs,431,0.9313
+2180012,Regional School District 18,All Students,1228,0.938
+2180012,Regional School District 18,Free Meal Eligible,141,0.9123
+2180012,Regional School District 18,Students Without High Needs,896,0.9428
+2180012,Regional School District 18,Students With High Needs,303,0.9238
+2190012,Regional School District 19,All Students,1124,0.9314
+2190012,Regional School District 19,Free Meal Eligible,228,0.8852
+2190012,Regional School District 19,Students Without High Needs,725,0.9463
+2190012,Regional School District 19,Students With High Needs,388,0.9039
+2310018,Goodwin University Educational Services (GUES),All Students,933,0.8818
+2310018,Goodwin University Educational Services (GUES),Free Meal Eligible,534,0.8633
+2310018,Goodwin University Educational Services (GUES),Students Without High Needs,232,0.9108
+2310018,Goodwin University Educational Services (GUES),Students With High Needs,699,0.8723
+2410014,Capitol Region Education Council,All Students,9653,0.8912
+2410014,Capitol Region Education Council,Students Experiencing Homelessness,51,0.7753
+2410014,Capitol Region Education Council,Free Meal Eligible,5448,0.8706
+2410014,Capitol Region Education Council,Students Without High Needs,2577,0.9243
+2410014,Capitol Region Education Council,Students With High Needs,7062,0.879
+2420014,EdAdvance,All Students,125,0.7785
+2420014,EdAdvance,Free Meal Eligible,72,0.7231
+2430014,Cooperative Educational Services,All Students,686,0.9004
+2430014,Cooperative Educational Services,Free Meal Eligible,169,0.8614
+2430014,Cooperative Educational Services,Students Without High Needs,232,0.9309
+2430014,Cooperative Educational Services,Students With High Needs,448,0.8842
+2440014,Area Cooperative Educational Services,All Students,1759,0.85
+2440014,Area Cooperative Educational Services,Free Meal Eligible,913,0.8157
+2440014,Area Cooperative Educational Services,Students Without High Needs,437,0.901
+2440014,Area Cooperative Educational Services,Students With High Needs,1315,0.8331
+2450014,Learn,All Students,975,0.9085
+2450014,Learn,Free Meal Eligible,442,0.8839
+2450014,Learn,Students Without High Needs,372,0.9353
+2450014,Learn,Students With High Needs,602,0.8919
+2530014,Eastern Connecticut Regional Educational Service Center (EASTCONN),All Students,386,0.8273
+2530014,Eastern Connecticut Regional Educational Service Center (EASTCONN),Students Without High Needs,154,0.8412
+2530014,Eastern Connecticut Regional Educational Service Center (EASTCONN),Students With High Needs,230,0.8203
+2610013,Jumoke Academy District,All Students,596,0.9087
+2610013,Jumoke Academy District,Students Without High Needs,441,0.906
+2610013,Jumoke Academy District,Students With High Needs,148,0.9188
+2630013,Odyssey Community School District,All Students,314,0.9353
+2630013,Odyssey Community School District,Free Meal Eligible,108,0.9431
+2630013,Odyssey Community School District,Students Without High Needs,154,0.9371
+2630013,Odyssey Community School District,Students With High Needs,159,0.9359
+2640013,Integrated Day Charter School District,All Students,317,0.9341
+2640013,Integrated Day Charter School District,Free Meal Eligible,140,0.9265
+2640013,Integrated Day Charter School District,Students Without High Needs,131,0.9406
+2640013,Integrated Day Charter School District,Students With High Needs,186,0.9295
+2650013,Interdistrict School for Arts and Comm District,All Students,272,0.927
+2650013,Interdistrict School for Arts and Comm District,Free Meal Eligible,162,0.9121
+2650013,Interdistrict School for Arts and Comm District,Students Without High Needs,66,0.9516
+2650013,Interdistrict School for Arts and Comm District,Students With High Needs,206,0.9192
+2680013,Common Ground High School District,All Students,211,0.8321
+2680013,Common Ground High School District,Free Meal Eligible,122,0.7964
+2680013,Common Ground High School District,Students Without High Needs,57,0.8919
+2680013,Common Ground High School District,Students With High Needs,154,0.8102
+2690013,The Bridge Academy District,All Students,268,0.9387
+2690013,The Bridge Academy District,Free Meal Eligible,154,0.93
+2690013,The Bridge Academy District,Students Without High Needs,64,0.9627
+2690013,The Bridge Academy District,Students With High Needs,204,0.9312
+2700013,Side By Side Charter School District,All Students,211,0.9459
+2700013,Side By Side Charter School District,Free Meal Eligible,95,0.9456
+2700013,Side By Side Charter School District,Students Without High Needs,80,0.9498
+2700013,Side By Side Charter School District,Students With High Needs,131,0.9433
+2720013,Explorations District,All Students,87,0.8612
+2720013,Explorations District,Free Meal Eligible,48,0.8418
+2720013,Explorations District,Students Without High Needs,24,0.9043
+2720013,Explorations District,Students With High Needs,62,0.8453
+2790013,Amistad Academy District,All Students,1093,0.8832
+2790013,Amistad Academy District,Free Meal Eligible,640,0.871
+2790013,Amistad Academy District,Students Without High Needs,300,0.8979
+2790013,Amistad Academy District,Students With High Needs,789,0.8775
+2800013,New Beginnings Inc Family Academy District,All Students,389,0.9102
+2800013,New Beginnings Inc Family Academy District,Free Meal Eligible,338,0.912
+2800013,New Beginnings Inc Family Academy District,Students Without High Needs,39,0.8944
+2800013,New Beginnings Inc Family Academy District,Students With High Needs,347,0.9117
+2830013,Park City Prep Charter School District,All Students,334,0.9393
+2830013,Park City Prep Charter School District,Free Meal Eligible,218,0.9378
+2830013,Park City Prep Charter School District,Students Without High Needs,63,0.9327
+2830013,Park City Prep Charter School District,Students With High Needs,270,0.9407
+2850013,Achievement First Bridgeport Academy District,All Students,1064,0.8728
+2850013,Achievement First Bridgeport Academy District,Free Meal Eligible,518,0.8583
+2850013,Achievement First Bridgeport Academy District,Students Without High Needs,394,0.8853
+2850013,Achievement First Bridgeport Academy District,Students With High Needs,662,0.8665
+2860013,Highville Charter School District,All Students,405,0.8807
+2860013,Highville Charter School District,Free Meal Eligible,252,0.869
+2860013,Highville Charter School District,Students Without High Needs,94,0.9009
+2860013,Highville Charter School District,Students With High Needs,307,0.8741
+2880013,Achievement First Hartford Academy District,All Students,1089,0.8827
+2880013,Achievement First Hartford Academy District,Free Meal Eligible,686,0.8712
+2880013,Achievement First Hartford Academy District,Students Without High Needs,303,0.8996
+2880013,Achievement First Hartford Academy District,Students With High Needs,782,0.8763
+2890013,Elm City College Preparatory School District,All Students,754,0.8675
+2890013,Elm City College Preparatory School District,Free Meal Eligible,450,0.8562
+2890013,Elm City College Preparatory School District,Students Without High Needs,226,0.8801
+2890013,Elm City College Preparatory School District,Students With High Needs,528,0.8621
+2900013,Brass City Charter School District,All Students,318,0.9187
+2900013,Brass City Charter School District,Students Without High Needs,132,0.9275
+2900013,Brass City Charter School District,Students With High Needs,183,0.9127
+2910013,Elm City Montessori School District,All Students,201,0.942
+2910013,Elm City Montessori School District,Students Without High Needs,112,0.9566
+2910013,Elm City Montessori School District,Students With High Needs,88,0.9228
+2940013,Great Oaks Charter School District,All Students,577,0.9118
+2940013,Great Oaks Charter School District,Free Meal Eligible,290,0.8988
+2940013,Great Oaks Charter School District,Students Without High Needs,178,0.9311
+2940013,Great Oaks Charter School District,Students With High Needs,398,0.9035
+2950013,Booker T. Washington Academy District,All Students,489,0.9146
+2950013,Booker T. Washington Academy District,Free Meal Eligible,284,0.9022
+2950013,Booker T. Washington Academy District,Students Without High Needs,87,0.9421
+2950013,Booker T. Washington Academy District,Students With High Needs,400,0.9086
+2960013,Stamford Charter School for Excellence District,All Students,427,0.9308
+2960013,Stamford Charter School for Excellence District,Free Meal Eligible,170,0.9289
+2960013,Stamford Charter School for Excellence District,Students Without High Needs,193,0.9298
+2960013,Stamford Charter School for Excellence District,Students With High Needs,232,0.9315
+2970013,Capital Preparatory Harbor School District,All Students,731,0.9102
+2970013,Capital Preparatory Harbor School District,Free Meal Eligible,393,0.9067
+2970013,Capital Preparatory Harbor School District,Students Without High Needs,224,0.9126
+2970013,Capital Preparatory Harbor School District,Students With High Needs,504,0.9092
+3360015,Unified School District #1,All Students,140,0.9564
+3360015,Unified School District #1,Free Meal Eligible,102,0.9536
+3470015,Unified School District #2,All Students,78,0.9202
+3470015,Unified School District #2,Free Meal Eligible,56,0.9251
+9000016,Connecticut Technical Education and Career System,All Students,11138,0.8985
+9000016,Connecticut Technical Education and Career System,Students Experiencing Homelessness,27,0.7152
+9000016,Connecticut Technical Education and Career System,Free Meal Eligible,4181,0.8932
+9000016,Connecticut Technical Education and Career System,Students Without High Needs,5001,0.9038
+9000016,Connecticut Technical Education and Career System,Students With High Needs,6130,0.8943
+9010022,Norwich Free Academy District,All Students,2068,0.894
+9010022,Norwich Free Academy District,Free Meal Eligible,846,0.8664
+9010022,Norwich Free Academy District,Students Without High Needs,858,0.9209
+9010022,Norwich Free Academy District,Students With High Needs,1156,0.8742
+9020022,The Gilbert School District,All Students,421,0.8901
+9020022,The Gilbert School District,Free Meal Eligible,154,0.8646
+9020022,The Gilbert School District,Students Without High Needs,189,0.9157
+9020022,The Gilbert School District,Students With High Needs,228,0.8696
+9030022,The Woodstock Academy District,All Students,1060,0.9288
+9030022,The Woodstock Academy District,Free Meal Eligible,23,0.8478
+9030022,The Woodstock Academy District,Students Without High Needs,949,0.9318
+9030022,The Woodstock Academy District,Students With High Needs,93,0.9041
