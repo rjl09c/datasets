@@ -1,0 +1,168 @@
+,EventYear,Event Month,DateEventBegan,AreaAffected,NERCRegion,DemandLoss,NumberofCustomersAffected
+1,2023,January,1/1/2023,California: Riverside County;,WECC,0,0
+2,2023,January,1/1/2023,California: Sacramento County;,WECC,0,0
+3,2023,January,1/1/2023,Florida: Citrus County;,SERC,19,3509
+4,2023,January,1/2/2023,Texas: Dallas County;,TRE,0,0
+5,2023,January,1/2/2023,New Mexico:,WECC,432,0
+6,2023,January,1/2/2023,Arkansas: Union County; Louisiana: Ouachita Parish;,SERC,20,6849
+7,2023,January,1/3/2023,Michigan: Ingham County;,RF,0,0
+8,2023,January,1/5/2023,Louisiana: Concordia Parish;,SERC,23,1631
+9,2023,January,1/5/2023,Washington: Lewis County;,WECC,0,0
+10,2023,January,1/6/2023,Ohio: Sandusky County;,RF,NA,NA
+11,2023,January,1/7/2023,California: Sacramento County;,WECC,458,185434
+12,2023,January,1/7/2023,"Texas: Jasper County, Tyler County;",TRE,20,9823
+13,2023,January,1/8/2023,Texas: Bowie County;,TRE,0,0
+14,2023,January,1/12/2023,California: Sacramento County;,WECC,0,0
+15,2023,January,1/12/2023,Alabama: Georgia:,SERC,1158,162000
+16,2023,January,1/12/2023,Washington: King County;,WECC,NA,NA
+17,2023,January,1/13/2023,Texas: Fayette County;,TRE,0,0
+18,2023,January,1/19/2023,South Carolina: Sumter County;,SERC,NA,NA
+19,2023,January,1/20/2023,Michigan: Oakland County;,RF,NA,0
+20,2023,January,1/23/2023,Connecticut: Rhode Island: Massachusetts: Vermont: New Hampshire: Maine:,NPCC,NA,41000
+21,2023,January,1/23/2023,California: Sacramento County;,WECC,NA,NA
+22,2023,January,1/23/2023,California: Sacramento County;,WECC,NA,NA
+23,2023,January,1/24/2023,Louisiana:,SERC,0,0
+24,2023,January,1/24/2023,New York: Queens County;,NPCC,0,0
+25,2023,January,1/24/2023,Texas: Harris County;,TRE,NA,100731
+26,2023,January,1/25/2023,Washington: Kitsap County;,WECC,0,0
+27,2023,January,1/25/2023,Texas: Cameron County;,TRE,0,0
+28,2023,January,1/25/2023,Arkansas: Texas: Louisiana: Mississippi:,SERC,NA,60958
+29,2023,January,1/26/2023,Washington: King County;,WECC,0,0
+30,2023,January,1/28/2023,Illinois: Franklin County;,SERC/RF,0,0
+31,2023,January,1/29/2023,Kentucky:,SERC,0,0
+32,2023,January,1/30/2023,Minnesota:,MRO,NA,NA
+33,2023,January,1/31/2023,"Texas: Dallas County, Anderson County, Bosque County, Collin County, Comanche County, Cooke County, Delta County, Denton County, Ellis County, Erath County, Fannin County, Freestone County, Hamilton County, Henderson County, Hill County, Hood County, Hopkins County, Hunt County, Jack County, Johnson County, Kaufman County, Lamar County, Navarro County, Palo Pinto County, Parker County, Rains County, Red River County, Rockwall County, Somervell County, Tarrant County, Van Zandt County, Wichita County, Wise County;",TRE,NA,360000
+34,2023,February,2/1/2023,Texas: Travis County;,TRE,370,173879
+35,2023,February,2/2/2023,Colorado:,WECC,0,0
+36,2023,February,2/2/2023,Pennsylvania: Westmoreland County;,RF,0,0
+37,2023,February,2/2/2023,Arkansas: Mississippi: Texas:,SERC,NA,74426
+38,2023,February,2/2/2023,Maryland: Cecil County;,RF,0,0
+39,2023,February,2/3/2023,Oregon: Washington: Yakima County; Idaho: Utah: Wyoming:,WECC,0,0
+40,2023,February,2/4/2023,Ohio: Gallia County;,RF,2000,NA
+41,2023,February,2/6/2023,Florida: Hillsborough County;,SERC,0,0
+42,2023,February,2/6/2023,Maryland:,RF,0,0
+43,2023,February,2/7/2023,Wisconsin: La Crosse County;,MRO,0,0
+44,2023,February,2/7/2023,Illinois: DuPage County;,SERC,0,0
+45,2023,February,2/7/2023,New York: Queens County;,NPCC,0,0
+46,2023,February,2/8/2023,Pennsylvania: Lawrence County;,RF,0,0
+47,2023,February,2/11/2023,Texas: Taylor County;,TRE,0,0
+48,2023,February,2/13/2023,California: San Diego County;,WECC,0,0
+49,2023,February,2/13/2023,Wisconsin: Chippewa County;,MRO,0,0
+50,2023,February,2/15/2023,Florida: Clay County;,SERC,0,0
+51,2023,February,2/18/2023,Oklahoma: Kay County;,MRO,0,0
+52,2023,February,2/19/2023,California: Riverside County;,WECC,0,0
+53,2023,February,2/21/2023,Texas: Cameron County;,TRE,0,0
+54,2023,February,2/21/2023,Florida: Hillsborough County;,SERC,0,0
+55,2023,February,2/21/2023,Florida: Orange County;,SERC,NA,2547
+56,2023,February,2/22/2023,"Michigan: Van Buren County, Kalamazoo County, St. Joseph County, Calhoun County, Branch County, Hillsdale County, Jackson County, Washtenaw County, Monroe County, Lenawee County, Ingham County, Barry County, Allegan County, Ottawa County, Eaton County, Ingham County, Shiawassee County, Clinton County;",RF,NA,261043
+57,2023,February,2/22/2023,Michigan:,RF,6200,623358
+58,2023,February,2/22/2023,South Dakota:,MRO,0,0
+59,2023,February,2/23/2023,"Wisconsin: Kenosha County, Racine County, Milwaukee County, Walworth County, Jefferson County, Waukesha County; Michigan:",MRO,143,57000
+60,2023,February,2/23/2023,Colorado: Larimer County;,WECC,0,0
+61,2023,February,2/24/2023,Florida: Pasco County;,SERC,0,0
+62,2023,February,2/25/2023,California: Los Angeles County;,WECC,NA,153555
+63,2023,February,2/26/2023,North Carolina:,SERC,NA,NA
+64,2023,February,2/27/2023,"Michigan: Newaygo County, Oceana County, Ionia County, Montcalm County, Jackson County, Van Buren County, Washtenaw County, Hillsdale County, Lenawee County;",RF,NA,76000
+65,2023,February,2/28/2023,Wisconsin: Outagamie County;,MRO,14,0
+66,2023,March,3/1/2023,Indiana: Hamilton County;,MRO,0,0
+67,2023,March,3/2/2023,"Texas: Montague County, Cooke County, Grayson County, Fannin County, Lamar County, Young County, Jack County, Wise County, Denton County, Collin County, Hunt County, Delta County, Hopkins County, Stephens County, Palo Pinto County, Parker County, Tarrant County, Dallas County, Rockwall County, Kaufman County, Van Zandt County, Rains County, Eastland County, Erath County, Hood County, Somervell County, Johnson County, Ellis County, Henderson County, Comanche County, Mills County, Hamilton County, Bosque County, Hill County, Navarro County, Freestone County, Anderson County, Lampasas County, Coryell County, Bell County, McLennan County, Falls County, Limestone County, Leon County, Milam County, Robertson County;",TRE,NA,470000
+68,2023,March,3/3/2023,Illinois: Cook County;,SERC/RF,0,0
+69,2023,March,3/3/2023,Mississippi:,SERC,38,12014
+70,2023,March,3/3/2023,Texas: Tarrant County;,TRE,0,0
+71,2023,March,3/3/2023,"Kentucky: Oldham County, Jefferson County, Fayette County, Franklin County, Hardin County, Hart County, Hopkins County, Jessamine County, Muhlenberg County, Nelson County, Scott County, Shelby County, Spencer County, Washington County, Woodford County, Bullitt County, Meade County, Lyon County, LaRue County, Henry County, Grayson County, Boyle County, Christian County, Anderson County; Virginia: Wise County;",SERC,NA,346000
+72,2023,March,3/3/2023,Ohio: Kentucky:,RF,NA,57186
+73,2023,March,3/3/2023,Tennessee: Davidson County;,SERC,NA,115000
+74,2023,March,3/3/2023,Michigan:,RF,0,2.00E+05
+75,2023,March,3/3/2023,Alabama: Georgia: Mississippi:,SERC,346,48384
+76,2023,March,3/3/2023,"Kentucky: Oldham County, Jefferson County, Fayette County, Franklin County, Hardin County, Hart County, Hopkins County, Jessamine County, Muhlenberg County, Nelson County, Scott County, Shelby County, Spencer County, Washington County, Woodford County, Bullitt County, Meade County, Lyon County, LaRue County, Henry County, Grayson County, Boyle County, Christian County, Anderson County; Virginia: Williamsburg, City of[23], Wise County;",SERC,NA,NA
+77,2023,March,3/4/2023,Louisiana:,SERC,965,33
+78,2023,March,3/4/2023,Louisiana:,SERC,800,NA
+79,2023,March,3/5/2023,Georgia: Fulton County;,SERC,0,0
+80,2023,March,3/5/2023,"West Virginia: Randolph County, Barbour County;",RF,0,0
+81,2023,March,3/6/2023,Virginia: Orange County;,SERC,1,0
+82,2023,March,3/7/2023,Texas: Lubbock County; New Mexico:,TRE,0,0
+83,2023,March,3/7/2023,Texas: Lubbock County;,TRE,0,0
+84,2023,March,3/8/2023,Texas: Bee County;,TRE,0,0
+85,2023,March,3/8/2023,Indiana: Hendricks County;,RF,0,0
+86,2023,March,3/9/2023,"Wisconsin: Walworth County, Waukesha County, Milwaukee County, Racine County, Ozaukee County, Kenosha County;",MRO/RF,250,1.00E+05
+87,2023,March,3/10/2023,"Texas: Webb County, Hidalgo County;",TRE,0,0
+88,2023,March,3/10/2023,Idaho: Ada County;,WECC,0,0
+89,2023,March,3/14/2023,Connecticut: Massachusetts: Vermont: Rhode Island: New Hampshire: Maine:,NPCC,NA,83000
+90,2023,March,3/14/2023,New York:,NPCC,NA,NA
+91,2023,March,3/16/2023,Texas: Lubbock County;,TRE,0,0
+92,2023,March,3/22/2023,Pennsylvania: Greene County;,RF,621,0
+93,2023,March,3/23/2023,Washington: King County;,WECC,0,0
+94,2023,March,3/23/2023,Texas: Tarrant County;,TRE,0,0
+95,2023,March,3/23/2023,Nevada: Clark County;,WECC,24,11479
+96,2023,March,3/25/2023,Michigan:,RF,5800,67893
+97,2023,March,3/25/2023,Ohio: West Virginia: Virginia:,RF,NA,160801
+98,2023,March,3/26/2023,Washington: Oregon: Josephine County; California: Idaho: Utah: Wyoming: Montana:,WECC,34,NA
+99,2023,March,3/28/2023,Texas: Cameron County;,TRE,0,0
+100,2023,March,3/28/2023,Texas: Montgomery County;,TRE,0,0
+101,2023,March,3/28/2023,Texas: Hartley County;,TRE,0,0
+102,2023,March,3/29/2023,Nebraska: Kearney County;,MRO,0,0
+103,2023,March,3/29/2023,Wisconsin: Michigan:,MRO / RF,0,0
+104,2023,March,3/30/2023,Washington: Kitsap County;,WECC,0,0
+105,2023,March,3/30/2023,Colorado: Larimer County;,WECC,18,NA
+106,2023,March,3/30/2023,Kentucky:,SERC,0,0
+107,2023,March,3/30/2023,Colorado: Larimer County;,WECC,NA,NA
+108,2023,March,3/30/2023,Pennsylvania: Indiana County;,RF,1711,0
+109,2023,March,3/31/2023,Arkansas:,SERC,NA,58368
+110,2023,March,3/31/2023,"Minnesota: Ramsey County, Hennepin County, Dakota County, Washington County;",MRO,NA,80000
+111,2023,March,3/31/2023,Illinois:,SERC / RF,NA,65000
+112,2023,April,4/1/2023,Ohio: West Virginia: Virginia:,RF/SERC,NA,118000
+113,2023,April,4/3/2023,Alabama: Walker County;,SERC,0,0
+114,2023,April,4/3/2023,Colorado: Wyoming: Nebraska: Arizona: New Mexico: Utah: California:,WECC/MRO,NA,0
+115,2023,April,4/8/2023,Texas: Cameron County;,TRE,0,0
+116,2023,April,4/11/2023,Ohio: Kentucky:,RF,0,0
+117,2023,April,4/14/2023,Florida: Orange County;,SERC,0,0
+118,2023,April,4/15/2023,Texas: Kentucky: New Mexico: Washington: Oregon: Arizona: California: Nebraska: Pennsylvania: Ohio:,TRE,0,0
+119,2023,April,4/16/2023,Texas: Louisiana: Arkansas: Mississippi:,TRE,NA,3900
+120,2023,April,4/17/2023,Florida: Alachua County;,SERC,0,0
+121,2023,April,4/17/2023,South Carolina: Aiken County;,SERC,39,8
+122,2023,April,4/18/2023,Texas: Travis County;,TRE,0,0
+123,2023,April,4/18/2023,Washington: King County;,WECC,0,0
+124,2023,April,4/18/2023,South Dakota: Stanley County;,MRO,4,1
+125,2023,April,4/19/2023,Washington: Snohomish County;,WECC,0,0
+126,2023,April,4/19/2023,Texas: Calhoun County;,TRE,NA,NA
+127,2023,April,4/21/2023,California:,WECC,0,0
+128,2023,April,4/23/2023,Washington: Mason County;,WECC,25,NA
+129,2023,April,4/25/2023,Arizona: Maricopa County;,WECC,0,0
+130,2023,April,4/26/2023,Idaho: Bonner County;,WECC,0,0
+131,2023,April,4/27/2023,Texas: Blanco County;,TRE,0,0
+132,2023,April,4/27/2023,California: Stanislaus County;,WECC,0,0
+133,2023,April,4/29/2023,"Texas: Hidalgo County, Cameron County, Willacy County, Starr County;",TRE,NA,168419
+134,2023,May,5/1/2023,Connecticut: Massachusetts: Rhode Island: Maine: New Hampshire: Vermont:,NPCC,NA,54000
+135,2023,May,5/2/2023,Texas:,TRE,0,0
+136,2023,May,5/2/2023,Ohio: Kentucky:,RF/SERC,0,0
+137,2023,May,5/4/2023,Texas: San Patricio County;,TRE,0,0
+138,2023,May,5/11/2023,Michigan: Eaton County;,RF,NA,378
+139,2023,May,5/11/2023,Texas: Tarrant County;,TRE,0,0
+140,2023,May,5/12/2023,Kentucky: Jefferson County;,SERC,0,0
+141,2023,May,5/12/2023,New York: Broome County;,NPCC,0,0
+142,2023,May,5/13/2023,North Dakota: Williams County;,MRO,8,327
+143,2023,May,5/13/2023,North Dakota: Williams County;,MRO,64,2
+144,2023,May,5/13/2023,North Dakota: Williams County;,MRO,166,327
+145,2023,May,5/16/2023,Oregon: Multnomah County;,WECC,0,0
+146,2023,May,5/21/2023,Washington: Whatcom County;,WECC,0,0
+147,2023,May,5/22/2023,Florida: Putnam County;,SERC,0,0
+148,2023,May,5/23/2023,North Dakota:,MRO,0,0
+149,2023,May,5/24/2023,North Dakota:,MRO,0,0
+150,2023,May,5/24/2023,Iowa: Minnesota:,MRO,2200,NA
+151,2023,May,5/26/2023,Georgia: Gwinnett County;,SERC,0,0
+152,2023,May,5/28/2023,Alabama: Tuscaloosa County;,SERC,0,0
+153,2023,May,5/30/2023,Massachusetts: Hampden County[13];,NPCC,0,0
+154,2023,May,5/31/2023,Florida: Alachua County;,SERC,0,0
+155,2023,June,6/25/2023,Tennessee,SERC,NA,120000
+156,2023,June,6/24/2023,Michigan,RF,5,5200
+157,2023,June,6/25/2023,"Georgia, Alabama",SERC,NA,NA
+158,2023,June,6/25/2023,"Wisconsin, Michigan",MRO/RF,175,70000
+159,2023,June,6/25/2023,Michigan,RF,NA,NA
+160,2023,June,6/27/2023,California,WECC,0,0
+161,2023,June,6/25/2023,"Arkansas, Mississippi",SERC,NA,64732
+162,2023,June,6/27/2023,"Washington, Idaho, Montana",WECC,0,0
+163,2023,June,6/29/2023,Indiana,RF,NA,140000
+164,2023,June,6/28/2023,Georgia,SERC,0,0
+165,2023,June,6/22/2023,Louisiana,SERC,17,6242
+166,2023,June,6/20/2023,Louisiana,SERC,0,0
+167,2023,June,6/30/2023,Connecticut,NPCC,0,0
